@@ -79,6 +79,7 @@ def create_tf_example(group, path, label_map):
             row["class"], label_map
         )
         classes.append(class_index)
+        print(class_index)
 
     tf_example = tf.train.Example(
         features=tf.train.Features(
