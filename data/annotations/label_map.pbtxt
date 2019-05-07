@@ -7,3 +7,8 @@ item {
   id: 2
   name: "Jack Link's Teriyaki Beef Jerky 1.25oz"
 }
+
+item {
+  id: 3
+  name: "Sweet and Hot Beef Jerky 3.25oz"
+}
